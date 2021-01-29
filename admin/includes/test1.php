@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display an alert box.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
+</script>
+
+</body>
+</html>
+
+
+
+
+else{
+
+echo "<script> 
+ alert('Fields cannot be empty..!!!');
+</script>";
+
+}
